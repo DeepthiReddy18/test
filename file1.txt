@@ -1,2 +1,7 @@
 #This is text file named file1 in branch 3 feature2
+#This is text file named file1 in branch 3 feature2
+#This is text file named file1 in branch 3 feature2
+#This is text file named file1 in branch 3 feature2
+#This is text file named file1 in branch 3 feature2
+
 
